@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(169, 241, 151);
+    flex-wrap: wrap;
+    width: 300px;
+   
+}
+
+H1{
+    text-align: center;
+    color: darkred;
+}
+
+ .container{
+    display:flex;
+    text-align: center;
+    align-content: row;
+   
+    
+    
+   
+ }
+
+
+
